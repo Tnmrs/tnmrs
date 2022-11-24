@@ -1,11 +1,15 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
 </div>
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/goryachev/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://t.me/tnmrs">
+  <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logoColor=white" alt="Telegram Badge"/>
+    <a href="mailto:promomyers@gmail.com"/>
+  <img src="https://img.shields.io/badge/Mail-informational?style=for-the-badge&logoColor=white" alt="Telegram Badge"/>
 </div>
 
 <div align="center">
@@ -14,7 +18,7 @@
 
 <h1 align="center">Hi There</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
 </div>
 
 <div align="center">
