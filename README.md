@@ -57,7 +57,5 @@
   
   ---
 
-### My Stats :
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tnmrs&theme=ayu-light&border_radius=6&border=B1D4FF)](https://git.io/streak-stats)
-  
+
   
