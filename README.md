@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=tnmrs&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">Hi There</h1>
+<h1 align="center">Hi There, I'm Dmitry</h1>
 <div align="center">
   
 </div>
