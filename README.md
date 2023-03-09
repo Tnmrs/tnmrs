@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
   
 </div>
 <div id="badges" align="center">
@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=tnmrs&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">Hi There, I'm Dmitry!</h1>
+
 <div align="center">
   
 </div>
@@ -24,20 +24,7 @@
 <div align="center">
   
   
-### About Me : 
-  I'm a front-end developer and quite a bit of a back-end developer. 
-  
 
-  
- I'm working as a Frontend Developer and contributing to frontend and backend for building web applications.
-
- Exploring Technical Content Writing.
-
- In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-
-  
-  
   ---
 
 ### Languages and Tools :
